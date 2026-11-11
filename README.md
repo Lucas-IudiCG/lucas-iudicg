@@ -17,9 +17,9 @@ Tenho experiência prática na construção de pipelines de extração de dados 
 
 ### 📌 Repositórios em Destaque (Pinned)
 
-* **[generative-music-ai-benchmark](https://github.com/lucas-iudicg/generative-music-ai-benchmark)**: TCC de Música Generativa em Python e TensorFlow. Avaliação comparativa entre **Transformers, LSTM e GANs** na composição de sequências MIDI.
-* **[automated-etl-pipeline-template](https://github.com/lucas-iudicg/automated-etl-pipeline-template)**: Pipeline ETL modular e open-source (Selenium, BeautifulSoup, Requests, Pandas, MongoDB) para ingestão automatizada e geração de relatórios.
-* **[guarulhos-ubs-graph-routing](https://github.com/lucas-iudicg/guarulhos-ubs-graph-routing)**: Aplicação prática de Teoria dos Grafos e Estruturas de Dados para otimização de rotas e atendimento em unidades de saúde.
+* **[generative-music-ai-benchmark](https://github.com/Lucas-IudiCG/generative-music-ai-benchmark)**: TCC de Música Generativa em Python e TensorFlow. Avaliação comparativa entre **Transformers, LSTM e GANs** na composição de sequências MIDI.
+* **[Grafos-Usbs-Guarulhos](https://github.com/Lucas-IudiCG/Grafos-Usbs-Guarulhos)**: Aplicação prática de Teoria dos Grafos e Estruturas de Dados para otimização de rotas e atendimento em unidades de saúde em Guarulhos.
+* **[Compilador-de-Portugol](https://github.com/Lucas-IudiCG/Compilador-de-Portugol)**: Implementação de um compilador completo para a linguagem educacional Portugol (Análise Léxica, Sintática e Semântica).
 
 ---
 
