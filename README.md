@@ -34,5 +34,5 @@ Tenho experiência prática na construção de pipelines de extração de dados 
 
 ### 📫 Vamos Conectar?
 
-* **LinkedIn:** [linkedin.com/in/lucas-iudicg](https://linkedin.com/in/lucas-iudicg) *(substitui pelo teu link)*
-* **E-mail:** [o.teu.email@domain.com](mailto:o.teu.email@domain.com)
+* **LinkedIn:** [linkedin.com/in/lucas-iudi-corregliano-gallinari-6a6441262](https://www.linkedin.com/in/lucas-iudi-corregliano-gallinari-6a6441262/)
+* **E-mail:** [lucasiudicorregliano@gmail.com](mailto:lucasiudicorregliano@gmail.com)
